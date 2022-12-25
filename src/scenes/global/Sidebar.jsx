@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Menu, MenuItem } from "react-pro-sidebar";
-import { "ProSidebar, Box, IconButton, Typography, useTheme } from "@mui/material";
+import { Box, IconButton, Typography, useTheme } from "@mui/material";
 import { Link } from "react-router-dom";
 import "react-pro-sidebar/dist/css/styles.css";
 import { tokens } from "../../theme";
